@@ -49,7 +49,7 @@ def main():
         print(f"{temp} K is {fahrenheit:.2f} *F")
     
     else:
-        print("Invalid choice! Please enter 1, 2, or 3.")
+        print("Invalid choice! Please enter from the provided choice")
 
 if __name__ == "__main__":
     main()
